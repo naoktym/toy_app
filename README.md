@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+https://young-beach-74738.herokuapp.com/ | https://git.heroku.com/young-beach-74738.git
+
